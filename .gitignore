@@ -62,4 +62,5 @@ typings/
 
 
 # ignore dis
-dist
+dist/
+biuld/
