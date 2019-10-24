@@ -61,6 +61,5 @@ typings/
 .next
 
 
-# ignore dist
-
+# ignore dis
 dist
