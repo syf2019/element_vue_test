@@ -9,7 +9,7 @@ module.exports = {
 		env: require('./dev.env'),
     // Paths
     assetsSubDirectory: 'static',
-    assetsPublicPath: '/',
+    assetsPublicPath: './',
     //配置代理
     proxyTable: {
     	'/api/v1/**':{
